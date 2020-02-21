@@ -1,7 +1,7 @@
 # mesa-13.0.4_V2_source_by_Griggorii_tutorial_patent_compilation
 mesa-13.0.4 , V2 , source , by , Griggorii , tutorial , patent , compilation , new example technology
 
-Deb package mesa adm64 download https://drive.google.com/open?id=1IDiBqSfAqw72af_mlIDleQejgjsSMhDb
+Deb package mesa amd64 download https://drive.google.com/open?id=1IDiBqSfAqw72af_mlIDleQejgjsSMhDb
 
 inpack mesa-13.0.4_V2_source_by_Griggorii.tar.xz
 
