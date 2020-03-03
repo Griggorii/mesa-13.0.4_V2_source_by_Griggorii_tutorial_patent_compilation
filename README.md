@@ -47,8 +47,8 @@ sudo apt update && sudo apt install libomxil-bellagio-dev libwayland-egl-backend
 
 ------------------------------------------------------
 
-Codecs test browser example chrome-um , brave 
+Codecs test browser example chrome-um , brave run youtube.com
 
-chrome://media-internals
+chrome-um copy paste url ENTER command chrome://media-internals
 
-chrome://media-internals/
+brave copy paste url ENTER command chrome://media-internals/
