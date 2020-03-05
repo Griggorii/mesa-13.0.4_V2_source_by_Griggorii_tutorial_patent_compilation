@@ -3,7 +3,7 @@ mesa-13.0.4 , V2 , source , by , Griggorii , tutorial , patent , compilation , n
 
 Mesa NVD7 graphics : https://radikal.ru/video/mp506QZfw0q
 
-Deb package mesa amd64 download https://drive.google.com/open?id=16C1qT9gim-DlkCIyyV0l-Q4TgogaWnUV
+Deb package new mesa amd64 download https://github.com/Griggorii/mesa-13.0.4_V3_source_by_Griggorii_tutorial_patent_compilation_omx
 
 sudo rm - rf /etc/X11/xorg.conf
 
